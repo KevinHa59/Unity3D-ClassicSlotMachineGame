@@ -1,5 +1,5 @@
-# Unity3DTowerDefense
-A small Tower Defense Game which is created by Unity 3D and C# language
+# Unity3DClasssicSlotMachineGame
+A small Slot Machine Game which is created by Unity 3D and C# language
 
 [Watch Demo on Youtube](https://www.youtube.com/watch?v=UYpJN-trPM0)
 <p align="center">***************************** <b>Game Features</b> *****************************</p>
